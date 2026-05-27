@@ -11,7 +11,7 @@ Project using the existing model BulkRNABert (https://huggingface.co/InstaDeepAI
 
 ## Prérequis
 
-- python 3.x
+- python 3.11.x
 
 ## Installation
 

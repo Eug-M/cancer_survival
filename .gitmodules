@@ -1,0 +1,3 @@
+[submodule "BulkRNABert"]
+	path = BulkRNABert
+	url = https://github.com/instadeepai/multiomics-open-research.git
