@@ -19,7 +19,7 @@ Project using the existing model [BulkRNABert](https://huggingface.co/InstaDeepA
 
 - BulkRNABert: external repository cloned via the Git tool submodules
 
-- data: folder used for the project's data: bulk RNA-Seq and clinical data from x patients (25 with pancreatic cancer, 67 with cervix carcinoma and 101 with endometrial carcinoma). They are not loaded into this repository as they contain sensible information
+- data: folder used for the project's data: bulk RNA-Seq and clinical data from 193 patients (25 with pancreatic cancer, 67 with cervix carcinoma and 101 with endometrial carcinoma). They are not loaded into this repository as they contain sensible information
 
 - LICENSES: folder used for the project's license (GNU AFFERO GENERAL PUBLIC LICENSE)
 
@@ -49,7 +49,7 @@ python3 -m venv .venv
 
 .\.venv\Scripts\Activate.ps1
 
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 Mac/Linux:
@@ -59,7 +59,7 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 
