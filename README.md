@@ -23,7 +23,7 @@ Project using the existing model [BulkRNABert](https://huggingface.co/InstaDeepA
 
 - LICENSES: folder used for the project's license (GNU AFFERO GENERAL PUBLIC LICENSE)
 
-- model: Deep Learning models developed in-house for this project
+- model: Machine- and Deep Learning models developed in-house for this project
 
 - results: folder used for the project's results and temporary files. They are not loaded into this repository as they contain sensible information
 
